@@ -4,8 +4,8 @@
         "listen": 8080,
         "ssl": {
             "enabled": false,
-            "certificate": "/etc/letsencrypt/live/46.36.37.171/fullchain.pem",
-            "key": "/etc/letsencrypt/live/46.36.37.171/privkey.pem"
+            "certificate": "/etc/letsencrypt/live/173.212.236.248/fullchain.pem",
+            "key": "/etc/letsencrypt/live/173.212.236.248/privkey.pem"
         }
     },
     "docker": {
@@ -49,12 +49,12 @@
         "count": 3
     },
     "remote": {
-        "base": "http://173.212.236.248/"
+        "base": "http://173.212.236.248"
     },
     "uploads": {
         "size_limit": 100
     },
     "keys": [
-        "GSzUJSznT8tYP2uIREB3DcNwKl05m4CjneRq"
+        "D2KEoPeTljMnanhlV6MzBj92MG6ydxqttzL6"
     ]
 }
